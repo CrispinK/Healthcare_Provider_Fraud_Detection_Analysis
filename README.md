@@ -1,6 +1,6 @@
 # Healthcare Provider Fraud Detection Analysis
 
-### Import labriries
+### Import libraries
 
 
 ```python
